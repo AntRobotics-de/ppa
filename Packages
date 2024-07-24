@@ -1,0 +1,60 @@
+Package: ros-humble-adir-can-commands
+Version: 0.0.0-0jammy
+Architecture: amd64
+Maintainer: rosuser <rosuser@todo.todo>
+Installed-Size: 2439
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), ros-humble-adir-can-commands-interfaces, ros-humble-adir-ros-can-interfaces, ros-humble-geometry-msgs, ros-humble-rclcpp, ros-humble-rclcpp-components
+Filename: ./ros-humble-adir-can-commands_0.0.0-0jammy_amd64.deb
+Size: 328356
+MD5sum: c3ca5dc1faeff9d31f08496b2a39f79f
+SHA1: 8775a1e2358122f043de2efe23fc5cd621a917b3
+SHA256: 8d5277cac4be70c211d23697fbc672e2baf2bb16e2f984e279873728c60a20a6
+Section: misc
+Priority: optional
+Description: TODO: Package description
+
+Package: ros-humble-adir-can-commands-interfaces
+Version: 0.0.0-0jammy
+Architecture: amd64
+Maintainer: rosuser <marmik18@gmail.com>
+Installed-Size: 1016
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-rosidl-default-runtime
+Filename: ./ros-humble-adir-can-commands-interfaces_0.0.0-0jammy_amd64.deb
+Size: 71686
+MD5sum: 07d20ce475b87968f7b76b2dffff9843
+SHA1: 8c9b94911c0ce5fb52da37803b0829729e631e34
+SHA256: 98cfcbe722f7768cbec3c37bc4f86ef1e61bf30c7d256138c1e2a0365e0be54a
+Section: misc
+Priority: optional
+Description: TODO: Package description
+
+Package: ros-humble-adir-ros-can
+Version: 0.0.1-0jammy
+Architecture: amd64
+Maintainer: rosuser <andrew@antrobotics.de>
+Installed-Size: 745
+Depends: libboost-thread1.74.0 (>= 1.74.0), libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), ros-humble-adir-ros-can-interfaces, ros-humble-rclcpp, ros-humble-rclcpp-components, ros-humble-std-msgs
+Filename: ./ros-humble-adir-ros-can_0.0.1-0jammy_amd64.deb
+Size: 167010
+MD5sum: a1bb6ec8df43b19cc8580b59aefdbfc2
+SHA1: 3d3a5b04edfc10a49dd79fc0f24605cb6c4b7d28
+SHA256: 379a0a4a3006b8c988fab83d2f7921a02ef634c84dcabcf4f28572adad8f7919
+Section: misc
+Priority: optional
+Description: The adir_ros_can package
+
+Package: ros-humble-adir-ros-can-interfaces
+Version: 0.0.0-0jammy
+Architecture: amd64
+Maintainer: rosuser <marmik18@gmail.com>
+Installed-Size: 448
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-rosidl-default-runtime
+Filename: ./ros-humble-adir-ros-can-interfaces_0.0.0-0jammy_amd64.deb
+Size: 41116
+MD5sum: 9f4c9856172ed357964314cf17acaf48
+SHA1: 6892d7276679f82c02cf8f3096cdc5a990ebe2da
+SHA256: 894d7fb0a330c62d44bb499fb65e654de084a31698dee930334a2ed4d1ad2312
+Section: misc
+Priority: optional
+Description: TODO: Package description
+
