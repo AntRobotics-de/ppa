@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/antrobotics_ppa.gpg] https://antrobotics-de.github.io/ppa/ ./
