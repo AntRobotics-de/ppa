@@ -65,10 +65,10 @@ Maintainer: Marmik Thakkar <marmik@antrobotics.de>
 Installed-Size: 6434
 Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), ros-humble-antrobotics-can-commands-interfaces, ros-humble-antrobotics-ros-can, ros-humble-antrobotics-ros-can-interfaces, ros-humble-geometry-msgs, ros-humble-rclcpp, ros-humble-rclcpp-components, ros-humble-std-msgs
 Filename: ./ros-humble-antrobotics-can-commands_1.0.0-0jammy_amd64.deb
-Size: 587740
-MD5sum: 6c005a64b0daecca95030d19e4a25bb0
-SHA1: d4b137f21a61084ae7de91e2340d8bb3e7dda179
-SHA256: 96e053482cce95ba74052ac74768035ba390c361735d6d2f31738278fdc99a97
+Size: 587846
+MD5sum: af2fe63e049e7706661c52d202d32571
+SHA1: 92816c2114a05b8462a6ea3930fd86c360a10c3c
+SHA256: 0ad60cf877ee5568e93c3d94a1c782b644cbbf356153fb21ca20b9e56ea9f47b
 Section: misc
 Priority: optional
 Description: ROS2 Wrapper for CAN commands.
@@ -80,10 +80,10 @@ Maintainer: Marmik Thakkar <marmik@antrobotics.de>
 Installed-Size: 1034
 Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-rosidl-default-runtime
 Filename: ./ros-humble-antrobotics-can-commands-interfaces_1.0.0-0jammy_amd64.deb
-Size: 71480
-MD5sum: 719a8c705f8ba8122b851318df310f1f
-SHA1: 19cafab955802d742849117662da487eb0b61337
-SHA256: 7052445289db0a82a38388eff900e6aef2a59264086f4a577c5236dd60243278
+Size: 71474
+MD5sum: f9e415b1c936802de1dc541435c6542f
+SHA1: b26a51decb86123bbc79259cf3b15c21cc84029d
+SHA256: a6c8fbdc064c287a88ea95978b618224e52d3b941b0b09fee43db536cca2fb74
 Section: misc
 Priority: optional
 Description: ROS2 interfaces for can_commands.
@@ -92,13 +92,13 @@ Package: ros-humble-antrobotics-ros-can
 Version: 1.0.0-0jammy
 Architecture: amd64
 Maintainer: Marmik Thakkar <marmik@antrobotics.de>
-Installed-Size: 744
+Installed-Size: 745
 Depends: libboost-thread1.74.0 (>= 1.74.0), libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), ros-humble-antrobotics-ros-can-interfaces, ros-humble-rclcpp, ros-humble-rclcpp-components, ros-humble-std-msgs
 Filename: ./ros-humble-antrobotics-ros-can_1.0.0-0jammy_amd64.deb
-Size: 166370
-MD5sum: 7252f937d65cd93f1faac8d8fe7aa453
-SHA1: ec1adb281368012e5ed688bffdb33b1271ffef16
-SHA256: 91392b54bb718809c0541646c446b6d7ca307d029ed5328434220f4023ad2b4b
+Size: 166410
+MD5sum: 4fc0ea4333036fa0fd26e3196101faea
+SHA1: 186dac2733d3018901479a69db627c018a003b20
+SHA256: d444c4ac1059d256439cab2c9ae3be309dfec8f529a18d9bc3556dfc039fa052
 Section: misc
 Priority: optional
 Description: ROS2 Wrapper for CAN hardware interface
@@ -107,13 +107,13 @@ Package: ros-humble-antrobotics-ros-can-interfaces
 Version: 1.0.0-0jammy
 Architecture: amd64
 Maintainer: Marmik Thakkar <marmik@antrobotics.de>
-Installed-Size: 451
+Installed-Size: 452
 Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-rosidl-default-runtime
 Filename: ./ros-humble-antrobotics-ros-can-interfaces_1.0.0-0jammy_amd64.deb
-Size: 41184
-MD5sum: 00218036af82399a01cfd985fc66a78f
-SHA1: 20a63d1e120f6779892a79e39e7058f8ffc2e13f
-SHA256: 72c1f54390081da4ed6d51f7f7d3245492f303bb01e0456b00250d843025080a
+Size: 41200
+MD5sum: 4ab0bcf87083f24bf90031d43e22afec
+SHA1: 0d621f43b79bb6bfb8e2335a5175c6a37493cbc4
+SHA256: 8bfae2e0bdd5dab220e97bd67f587a249202d0fb284ce790c58f8af79ce85d55
 Section: misc
 Priority: optional
 Description: ROS2 interfaces for ros_can.
