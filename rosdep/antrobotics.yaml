@@ -1,0 +1,8 @@
+antrobotics_ros_can:
+  ubuntu: [ros-humble-antrobotics-ros-can]
+antrobotics_ros_can_interfaces:
+  ubuntu: [ros-humble-antrobotics-ros-can-interfaces]
+antrobotics_can_commands_interfaces:
+  ubuntu: [ros-humble-antrobotics-can-commands-interfaces]
+antrobotics_can_commands:
+  ubuntu: [ros-humble-antrobotics-can-commands]
